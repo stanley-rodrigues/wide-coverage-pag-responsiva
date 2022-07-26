@@ -7,8 +7,8 @@ projeto para estudo sobre responsividade.
 
 <p aligh="center">
     <img width="600" height="350" src="./assets/mobile.png"/>
-    <video src="https://github.com/stanley-rodrigues/wide-coverage-pag-responsiva/blob/master/assets/pc.mp4" autoplay />
-    <img height="350" src="https://github.com/stanley-rodrigues/wide-coverage-pag-responsiva/blob/master/assets/mobile.gif?raw=true" />
+    <video src="./assets/pc.mp4" autoplay >
+    <img height="350" src="./assets/mobile.gif" />
     </p>
 
     
